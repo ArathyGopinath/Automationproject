@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-15T18:17:20 IST" name="Default suite" finished-at="2024-05-15T18:18:10 IST" duration-ms="49341">
+    <groups>
+    </groups>
+    <test started-at="2024-05-15T18:17:20 IST" name="Default test" finished-at="2024-05-15T18:18:10 IST" duration-ms="49341">
+      <class name="testpkg.Shrishtilogintest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testpkg.Shrishtilogintest@6e6f2380]" started-at="2024-05-15T18:17:20 IST" name="setup" finished-at="2024-05-15T18:17:29 IST" duration-ms="8953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="logintest()[pri:1, instance:testpkg.Shrishtilogintest@6e6f2380]" started-at="2024-05-15T18:17:29 IST" name="logintest" finished-at="2024-05-15T18:17:40 IST" duration-ms="10846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logintest -->
+        <test-method signature="homepage()[pri:2, instance:testpkg.Shrishtilogintest@6e6f2380]" started-at="2024-05-15T18:17:40 IST" name="homepage" finished-at="2024-05-15T18:17:47 IST" duration-ms="6587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepage -->
+        <test-method signature="addtocart()[pri:3, instance:testpkg.Shrishtilogintest@6e6f2380]" started-at="2024-05-15T18:17:47 IST" name="addtocart" finished-at="2024-05-15T18:17:51 IST" duration-ms="3779" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocart -->
+        <test-method signature="checkout()[pri:4, instance:testpkg.Shrishtilogintest@6e6f2380]" started-at="2024-05-15T18:17:51 IST" name="checkout" finished-at="2024-05-15T18:17:56 IST" duration-ms="5286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkout -->
+        <test-method signature="clickcollection()[pri:4, instance:testpkg.Shrishtilogintest@6e6f2380]" started-at="2024-05-15T18:17:56 IST" name="clickcollection" finished-at="2024-05-15T18:18:01 IST" duration-ms="4865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickcollection -->
+        <test-method signature="viewcart()[pri:5, instance:testpkg.Shrishtilogintest@6e6f2380]" started-at="2024-05-15T18:18:01 IST" name="viewcart" finished-at="2024-05-15T18:18:05 IST" duration-ms="4673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewcart -->
+        <test-method signature="billing()[pri:6, instance:testpkg.Shrishtilogintest@6e6f2380]" started-at="2024-05-15T18:18:05 IST" name="billing" finished-at="2024-05-15T18:18:09 IST" duration-ms="3733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- billing -->
+        <test-method signature="screenshot()[pri:7, instance:testpkg.Shrishtilogintest@6e6f2380]" started-at="2024-05-15T18:18:09 IST" name="screenshot" finished-at="2024-05-15T18:18:10 IST" duration-ms="404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshot -->
+      </class> <!-- testpkg.Shrishtilogintest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
